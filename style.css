@@ -1,0 +1,19 @@
+.heading
+{
+    width: 100%;
+}
+
+h3
+{
+    float: left;
+}
+
+.heading_2
+{
+    float: right;
+}
+
+body
+{
+    text-align: center;
+}
